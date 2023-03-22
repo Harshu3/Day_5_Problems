@@ -1,3 +1,5 @@
+#Program that reads 5 random 3 digit values and print minimum and maximum values.
+
 n=5
 i=0
 while [ $i -lt $n ]
