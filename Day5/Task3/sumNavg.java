@@ -1,3 +1,5 @@
+//Program that reads 5 random 2 digits values, and find their sum and average.
+
 import java.util.Scanner;
 public class Sum_Avg
 {
