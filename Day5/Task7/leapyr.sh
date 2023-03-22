@@ -1,3 +1,5 @@
+#Program to check the given input year is leap year or not.
+
 echo "Enter the year you want to check: "
 read year
 a=`expr $year % 400`
